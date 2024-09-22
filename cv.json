@@ -109,7 +109,7 @@
     {
       "name": "Sync-graph",
       "isActive": true,
-      "description": "Permite sincronizar las contribuciones de GitHub entre cuentas distintas",
+      "description": "Permite sincronizar las contribuciones de GitHub entre distintas.",
       "highlights": [],
       "url": null,
       "github": "https://github.com/isturiz/sync-graph"
