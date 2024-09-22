@@ -110,9 +110,17 @@
       "name": "Sync-graph",
       "isActive": true,
       "description": "Permite sincronizar las contribuciones de GitHub entre distintas.",
-      "highlights": [],
-      "url": null,
+      "highlights": ["CLI", "GitHub"],
+      "url": "https://github.com/isturiz/sync-graph",
       "github": "https://github.com/isturiz/sync-graph"
+    },
+    {
+      "name": "Dotfiles",
+      "isActive": true,
+      "description": "Configuración de el workspace de la terminal.",
+      "highlights": ["neovim", "fish", "zellij", "kitty"],
+      "url": "https://github.com/isturiz/config",
+      "github": "https://github.com/isturiz/config"
     }
   ],
   "publications": [
