@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mauricio Istúriz",
-    "label": "Desarrollador Full Stack con 2 años de experiencia.",
+    "label": "Desarrollador de Software Web.",
     "image": "me.webp",
     "email": "isturizmauricio@gmail.com",
     "phone": "+58 4121511816",
     "url": "https://midu.dev",
-    "summary": "Desarrollador Full-Stack con más de cinco años de experiencia en programación. Mi objetivo es crear proyectos con buenas prácticas y patrones de diseño para garantizar su escalabilidad en el tiempo. Creo firmemente en la importancia de prestar atención a los detalles.",
+    "summary": "Los detalles importan. Utilizo Neovim como editor de código, puedes encontrar la configuración del setup en GitHub.",
     "location": {
       "address": "",
       "postalCode": "3001",
@@ -29,13 +29,22 @@
   },
   "work": [
     {
+      "name": "Binaural",
+      "position": "Desarrollador Odoo",
+      "url": "https://boomsolutionsve.com/",
+      "startDate": "2024-08-01",
+      "endDate": null,
+      "summary": "Resumen en progreso. 😉🔨",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Boom Solutions",
       "position": "Full Stack",
       "url": "https://boomsolutionsve.com/",
       "startDate": "2023-12-04",
-      "endDate": null,
-      "summary": "Facilitar la comunicación entre el back-end y el front-end de diversas aplicaciones, liderar la implementación de tecnologías como Astro.build y React.js, administrar las bases de datos de la empresa, evaluar y corregir fallos de ciberseguridad en codificación y servidores, y apoyar a otros departamentos mediante la generación de informes para asegurar el correcto funcionamiento de sus operaciones y procesos de toma de decisiones.",
-      "highlights": ["Started the company"]
+      "endDate": "2024-08-01",
+      "summary": "Migrar de Wordpress a Astro y React. Implementar CI/CD. Implementar patrones de diseño y arquitecturas de software eficientes y escalables. Desarrollo con React, Astro y Nest.",
+      "highlights": ["Líder interino del departamento de programación"]
     },
     {
       "name": "Damex",
@@ -43,8 +52,8 @@
       "url": "https://damex.io/",
       "startDate": "2023-12-04",
       "endDate": "2023-08-01",
-      "summary": "Optimizar la estructura del proyecto y aplicar las mejores prácticas, además de refactorizar el código para incrementar la escalabilidad de la aplicación.",
-      "highlights": ["Started the company"]
+      "summary": "Gráficos y tablas para el dashboard. WebSockets. Migrar JQuery a ES6+",
+      "highlights": ["Implementar ES6+"]
     }
   ],
   "volunteer": [
@@ -94,6 +103,16 @@
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
+    }
+  ],
+"projects": [
+    {
+      "name": "Sync-graph",
+      "isActive": true,
+      "description": "Permite sincronizar las contribuciones de GitHub entre cuentas distintas",
+      "highlights": [],
+      "url": null,
+      "github": "https://github.com/isturiz/sync-graph"
     }
   ],
   "publications": [
